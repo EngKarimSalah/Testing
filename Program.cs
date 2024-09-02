@@ -8,6 +8,8 @@
             string x = Console.ReadLine();
             if (x.ToLower() == "yes")
             {
+
+
                 int n
                 string input
 
